@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ldd"
+title: "ldd2"
 excerpt: ""
 author_profile: true
 redirect_from: 
